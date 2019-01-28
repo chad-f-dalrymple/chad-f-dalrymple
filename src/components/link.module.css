@@ -1,0 +1,10 @@
+.link a {
+  color: red;
+  text-transform: uppercase;
+}
+
+a:hover {
+  color: blue;
+  cursor: pointer;
+  transition: color 500ms ease;
+}
