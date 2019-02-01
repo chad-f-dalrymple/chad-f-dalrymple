@@ -5,6 +5,7 @@ import Layout from '../components/layout'
 import SEO from '../components/seo'
 import Container from '../components/container'
 import Section from '../components/section'
+import MainForm from '../components/MainForm'
 
 const IndexPage = () => (
   <Layout>
@@ -26,6 +27,7 @@ const IndexPage = () => (
         Here will be some notes
       </h3>
     </Section>
+    <MainForm />
   </Layout>
 )
 
