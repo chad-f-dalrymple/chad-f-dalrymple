@@ -5,7 +5,6 @@ module.exports = {
     author: `Chad Dalrymple`,
   },
   plugins: [
-    `gatsby-plugin-postcss`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
