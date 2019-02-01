@@ -8,7 +8,8 @@ import Section from '../components/section'
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`, `chad`, `dalrymple`]} />
+    <SEO title="Home" keywords={[`gatsby`, `application`,
+      `react`, `chad`, `dalrymple`]} />
 
     <Container className="container__section-primary">
       <h1 className="heading__main">
@@ -21,9 +22,9 @@ const IndexPage = () => (
     </Container>
 
     <Section>
-        <h3 className="container__section-secondary-title">
-          Here will be some notes
-        </h3>
+      <h3 className="container__section-secondary-title">
+        Here will be some notes
+      </h3>
     </Section>
   </Layout>
 )

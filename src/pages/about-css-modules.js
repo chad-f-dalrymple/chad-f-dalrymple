@@ -1,7 +1,7 @@
-import React from "react"
+import React from 'react'
 
-import Container from "../components/container"
-import Link from "../components/link"
+import Container from '../components/container'
+import Link from '../components/link'
 
 export default () => (
   <Container>
