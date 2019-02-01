@@ -1,7 +1,7 @@
-import React from "react"
-import linkStyles from "./link.module.css"
+import React from 'react'
+import linkStyles from './link.module.css'
 
-const Link = ( {children} ) => (
+const Link = ({ children }) => (
   <React.Fragment>
     <a className={linkStyles.link} href="/page-2/">
       {children}
@@ -9,4 +9,4 @@ const Link = ( {children} ) => (
   </React.Fragment>
 )
 
-export default Link;
+export default Link
