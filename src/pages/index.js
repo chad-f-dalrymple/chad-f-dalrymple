@@ -1,6 +1,6 @@
 import React from 'react'
-import { Link } from 'gatsby'
 
+import Link from '../components/link'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 import Container from '../components/container'
@@ -8,7 +8,7 @@ import Section from '../components/section'
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="Home" keywords={[`gatsby`, `application`, `react`, `chad`, `dalrymple`]} />
 
     <Container className="container__section-primary">
       <h1 className="heading__main">
@@ -17,7 +17,7 @@ const IndexPage = () => (
       <p className="body__main">
         It is currently under construction
       </p>
-      <Link to="/page-2/">Go to page 2</Link>
+      <Link>Go to page 2</Link>
     </Container>
 
     <Section>

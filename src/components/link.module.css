@@ -1,9 +1,8 @@
-.link a {
+.link {
   color: red;
-  text-transform: uppercase;
 }
 
-a:hover {
+.link:hover {
   color: blue;
   cursor: pointer;
   transition: color 500ms ease;
