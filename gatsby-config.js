@@ -6,7 +6,13 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-postcss`,
+    {
+      resolve: `gatsby-plugin-postcss`,
+      options: {
+        postCssPlugins:
+          [require(`postcss-preset-env, postcss-nesting`)({ stage: 0 })],
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
