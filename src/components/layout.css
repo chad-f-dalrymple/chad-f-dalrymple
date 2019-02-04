@@ -1,0 +1,7 @@
+@media (--med) {
+  a {
+    &:hover {
+      color: color-mod(black alpha(54%));
+    }
+  }
+}
