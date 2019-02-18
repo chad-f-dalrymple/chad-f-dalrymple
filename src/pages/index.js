@@ -6,6 +6,7 @@ import SEO from '../components/seo'
 import Container from '../components/container'
 import Section from '../components/section'
 import MainForm from '../components/MainForm'
+import Button from '../components/button'
 
 const IndexPage = () => (
   <Layout>
@@ -28,6 +29,7 @@ const IndexPage = () => (
       </h3>
     </Section>
     <MainForm />
+    <Button />
   </Layout>
 )
 

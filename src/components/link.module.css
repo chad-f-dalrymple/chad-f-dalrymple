@@ -1,6 +1,10 @@
 .link {
   color: red;
   font-size: 0.875rem;
+
+  &__main {
+    font-weight: 600;
+  }
 }
 
 .link:hover {
