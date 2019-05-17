@@ -8,7 +8,7 @@ export default class ContactForm extends React.Component {
     firstNameValid: false,
     lastNameValid: false,
     formValid: false,
-    isNotChecked: true
+    isChecked: false
   }
 
   handleInputChange = event => {
@@ -23,11 +23,11 @@ export default class ContactForm extends React.Component {
   }
 
   handleValidation = event => {
-    if (this.state.firstName === '') {
+    if (this.state.firstName === '' || this.state.lastName === '') {
       event.preventDefault()
       alert('please fill out the required information')
     } else {
-      alert(`Welcome ${this.state.firstName} ${this.state.lastName}`)
+      alert(`Welcome ${ this.state.firstName } ${ this.state.lastName }`)
     }
   }
 
@@ -56,11 +56,11 @@ export default class ContactForm extends React.Component {
             type="checkbox"
             name="confirmation"
             onChange={this.handleInputChange}
-            isChecked={this.state.isNotChecked}
+            isChecked={this.state.isChecked}
           />
           <button
             type="submit"
-            disabled={!this.state.isNotChecked}
+            disabled={!this.state.isChecked}
           >
             Submit
           </button>
