@@ -19,6 +19,3 @@ Performance optimization for web applications
 📫 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/chadfdalrymple/)
-
-
-Feel free to explore my repositories and reach out if you'd like to collaborate on a project!
