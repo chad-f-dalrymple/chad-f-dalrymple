@@ -32,9 +32,9 @@ Other: Git, RESTful APIs, Weather API Integration
 
 🌱 Currently Learning
 
-Advanced AI integration techniques
-Improved UX/UI design principles
-Performance optimization for web applications
+Advanced AI integration techniques,
+Improved UX/UI design principles,
+Performance optimization for web applications,
 
 
 📫 Connect With Me
