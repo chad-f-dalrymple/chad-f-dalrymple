@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-👨‍💻 Full Stack Developer
 Hello! I'm a developer passionate about creating practical web applications and exploring AI technologies. My projects combine functionality with innovation to solve everyday problems.
 
 🚀 Featured Projects
