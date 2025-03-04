@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**chad-f-dalrymple/chad-f-dalrymple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Full Stack Developer
+Hello! I'm a developer passionate about creating practical web applications and exploring AI technologies. My projects combine functionality with innovation to solve everyday problems.
 
-Here are some ideas to get you started:
+🚀 Featured Projects
+Personal-Task-Assistant (AI Chatbot)
+An intelligent chatbot built with Next.js that serves as your personal assistant by:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Managing your to-do list with natural language commands
+Providing extended weather forecasts for any location
+Offering a conversational interface for productivity
+
+View Repository[https://github.com/chad-f-dalrymple/Personal-Task-Assistant]
+
+full-stack-to-do (To-Do Web Application)
+A comprehensive full-stack to-do application with Python backend that helps you:
+
+Organize and prioritize your daily tasks
+Track completion status with SQLite/PostgreSQL database
+Manage your productivity efficiently
+
+View Repository[https://github.com/chad-f-dalrymple/full-stack-to-do]
+
+💻 Tech Stack
+
+Frontend: React, Next.js, HTML5, CSS3, JavaScript/TypeScript
+Backend: Node.js, Express, Python
+Database: MongoDB, SQL, SQLite, PostgreSQL
+AI/ML: Natural Language Processing, Conversational AI
+Other: Git, RESTful APIs, Weather API Integration
+
+
+🌱 Currently Learning
+
+Advanced AI integration techniques
+Improved UX/UI design principles
+Performance optimization for web applications
+
+
+📫 Connect With Me
+
+LinkedIn[https://www.linkedin.com/in/chadfdalrymple/]
+
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on a project!
