@@ -5,8 +5,8 @@ Hello! I'm a developer passionate about creating practical web applications and 
 💻 Tech Stack  
 
 Frontend: React, Next.js, HTML5, CSS3, TailwindCSS, JavaScript/TypeScript  
-Backend: Node.js, Express 
-Database: SQL, SQLite, PostgreSQL  
+Backend: Node.js 
+Database: SQLite, PostgreSQL  
 AI/ML: Natural Language Processing, Conversational AI, Image to text models  
 Other: Git, RESTful APIs, Heroku 
 
